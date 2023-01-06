@@ -31,7 +31,6 @@ export const Transactions = () => {
               </td>
               <td>Alimentação</td>
               <td>10/04/2022</td>
-              <td>TESTE</td>
             </tr>
           </tbody>
         </TransactionsTable>
